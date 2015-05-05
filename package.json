@@ -1,0 +1,28 @@
+{
+  "name": "adbjs",
+  "version": "0.1.0",
+  "description": "A simple wrapper around some ADB commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dcherman/adbjs.git"
+  },
+  "keywords": [
+    "adb",
+    "android",
+    "js"
+  ],
+  "author": "Daniel Herman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcherman/adbjs/issues"
+  },
+  "homepage": "https://github.com/dcherman/adbjs",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "shelljs": "^0.4.0"
+  }
+}
